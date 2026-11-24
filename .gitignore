@@ -1,0 +1,2 @@
+# Remove Env and other sensitive files
+.env
